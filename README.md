@@ -32,4 +32,5 @@ els seus finals de carrera.
 - [ ] Funció 3
 
 ## Historial de canvis | Data | Autor | Branch | Descripció |
-|------|------|--------|------------| | 2025-03-20 | Raul | `main` | Creació del projecte |
+|------|------|--------|------------| 
+| 2025-03-20 | Raul | `main` | Creació del projecte |
