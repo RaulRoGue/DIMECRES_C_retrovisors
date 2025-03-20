@@ -679,7 +679,7 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:18.129;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:18.129;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        x="136.39714"
        y="105.27555"
        id="text14"
@@ -695,12 +695,12 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text15"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15);opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text18"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect18);opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect18);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect19"
@@ -804,12 +804,12 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text32"
-       style="fill:#ffffff;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;opacity:1;stroke-width:3.77952756;stroke-dasharray:none;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-linecap:butt;paint-order:normal;fill-opacity:1;stroke:#000000;stroke-opacity:1;white-space:pre;shape-inside:url(#rect32)" />
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <text
        xml:space="preserve"
        transform="matrix(0.35582057,0,0,0.40770794,3.1158996,-36.780571)"
        id="text33"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect33);opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect33);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="419.97461"
          y="593.16281"
          id="tspan6">RX  TX</tspan></text>
@@ -817,7 +817,7 @@
        xml:space="preserve"
        transform="matrix(0.27382835,0,0,0.47376546,33.375513,-105.94183)"
        id="text34"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect34);opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect34);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="436.375"
          y="706.16867"
          id="tspan7">TXD RXD</tspan></text>
@@ -854,7 +854,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text37"
-       style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;opacity:1;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-linecap:butt;paint-order:normal;fill-opacity:1;stroke:#000000;stroke-opacity:1;white-space:pre;shape-inside:url(#rect37)" />
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect37);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.806306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect58"
@@ -866,7 +866,7 @@
        xml:space="preserve"
        transform="matrix(0.47007866,0,0,1.2142582,-253.52947,-351.36263)"
        id="text58"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect59);opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect59);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="1210.6348"
          y="358.01632"
          id="tspan8">Rele G6S</tspan></text>
@@ -886,7 +886,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text67"
-       style="fill:none;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;opacity:1;stroke-width:3.77952756;stroke-dasharray:none;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-linecap:butt;paint-order:normal;fill-opacity:1;stroke:none;stroke-opacity:1;white-space:pre;shape-inside:url(#rect67)" />
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect67);display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect68"
@@ -965,7 +965,7 @@
        xml:space="preserve"
        transform="matrix(0.30121117,0,0,0.75351667,-28.719963,-215.28401)"
        id="text2"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="1293.875"
          y="519.20382"
          id="tspan12">LED indicador de direcció</tspan></text>
@@ -993,7 +993,7 @@
        xml:space="preserve"
        transform="matrix(0.40370474,0,0,0.45449301,-47.489814,-97.719049)"
        id="text3"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
          id="tspan13">6b
@@ -1018,7 +1018,7 @@
        xml:space="preserve"
        transform="matrix(0.40763671,0,0,0.87429575,-205.31348,-251.38942)"
        id="text41"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect41);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect41);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="1427.2969"
          y="458.64718"
          id="tspan15">Escalfador</tspan></text>
@@ -1031,7 +1031,7 @@
        xml:space="preserve"
        transform="matrix(0.40523818,0,0,0.47398349,-85.7258,-67.097065)"
        id="text7"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
          id="tspan16">RA4</tspan></text>
