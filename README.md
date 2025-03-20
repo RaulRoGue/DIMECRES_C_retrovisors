@@ -14,7 +14,10 @@ la pcb també ha d'incloure un sensor que detecti els punts morts, un calefactor
 i una llum indicadora de direcció.
 
 ## Requisits i especificacions
-- Llista de requisits tècnics i objectius a assolir.
+- 3 motors (moviment de mirall vertical i horitzontal, i plegat del retrovisor) amb
+els seus finals de carrera.
+- Calefactor del mirall.
+- Sensor digital de detecció d’angle mort i llum indicadora.
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
 
