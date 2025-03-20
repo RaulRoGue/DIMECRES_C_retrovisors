@@ -20,7 +20,7 @@ els seus finals de carrera.
 - Sensor digital de detecció d’angle mort i llum indicadora.
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
-
+![Diagrama blocs](C:\Users\raulr\OneDrive\Escritorio\4t_Semestre\EinesDisseny\Proyecto\DiagramaBloques.svg)
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
