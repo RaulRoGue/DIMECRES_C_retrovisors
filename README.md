@@ -22,7 +22,9 @@ els seus finals de carrera.
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
-| Exemple | XYZ1234 | SOT-23 | [Enllaç](https://...) | DigiKey | 2 |
+| Driver | L298N | Multipower15 | [Enllaç](https://www.mouser.es/datasheet/2/389/l298-1849437.pdf) | STMicroelectronics | 1 |
+|------------|--------------------|---------|----------|----------|---------|
+| Microcontrolador|PIC18F258|SOIC-28|[Enllaç](https://www.mouser.es/datasheet/2/268/41159e-3443038.pdf)|Microchip Technology| 1 |
 
 ## Funcionalitats
 - [ ] Funció 1
