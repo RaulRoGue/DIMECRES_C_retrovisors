@@ -4,8 +4,6 @@ View this project on [CADLAB.io](https://cadlab.io/project/28966).
 ## Autors
 - Nom 1 (@RaulRoGue)
 - Nom 2 (@usuariGitHub)
-- Nom 3 (@usuariGitHub)
-
 ## Versió - v1.0 ## Curs - Assignatura de Disseny de PCBs amb KiCad - [Curs 2024-2025]
 
 ## Objectiu
