@@ -2092,7 +2092,7 @@
 				(pin passive line
 					(at 12.7 13.97 270)
 					(length 6.35)
-					(name "Cnt2"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2110,7 +2110,7 @@
 				(pin passive line
 					(at 12.7 -2.54 90)
 					(length 6.35)
-					(name "Cnt1"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2128,7 +2128,7 @@
 				(pin passive line
 					(at 17.78 13.97 270)
 					(length 6.35)
-					(name "Out2A"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2146,7 +2146,7 @@
 				(pin passive line
 					(at 17.78 -2.54 90)
 					(length 6.35)
-					(name "Out1A"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2164,7 +2164,7 @@
 				(pin passive line
 					(at 20.32 13.97 270)
 					(length 2.54)
-					(name "In2"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2182,7 +2182,7 @@
 				(pin passive line
 					(at 20.32 -2.54 90)
 					(length 2.54)
-					(name "In1"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2200,7 +2200,7 @@
 				(pin passive line
 					(at 22.86 13.97 270)
 					(length 6.35)
-					(name "Out2B"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2218,7 +2218,7 @@
 				(pin passive line
 					(at 22.86 -2.54 90)
 					(length 6.35)
-					(name "Out1B"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4414,6 +4414,94 @@
 		)
 	)
 	(symbol
+		(lib_id "PracticasKiCad:SW_DPDT_G6S")
+		(at 240.03 80.645 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12b2256d-cc82-4a20-884e-e637b122cabd")
+		(property "Reference" "SW1"
+			(at 267.97 73.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SW_DPDT_G6S"
+			(at 267.97 76.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 240.03 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Switch, dual pole double throw"
+			(at 258.318 75.057 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2ae573ae-b381-4f38-a445-4954fcf1a57e")
+		)
+		(pin "3"
+			(uuid "70bddcc2-566c-4297-a151-b027ecffbb08")
+		)
+		(pin "8"
+			(uuid "955fa0e2-313e-4ad8-9823-675276e3210b")
+		)
+		(pin "5"
+			(uuid "ae219ff0-23a8-4f35-981a-ca1d171d98ce")
+		)
+		(pin "10"
+			(uuid "30e4c9ff-71f3-4ab5-b4d7-d73686fc36e2")
+		)
+		(pin "9"
+			(uuid "5308decc-a3f7-4567-9ba6-783223fe5359")
+		)
+		(pin "4"
+			(uuid "250e2423-de87-415d-a7f6-42d17844377d")
+		)
+		(pin "12"
+			(uuid "f3d62bc9-31b5-4930-bdbd-6e076230449b")
+		)
+		(instances
+			(project ""
+				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDPWR")
 		(at 95.885 56.515 0)
 		(unit 1)
@@ -5820,94 +5908,6 @@
 			(project "DIMECRES_C_retrovisors"
 				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PracticasKiCad:SW_DPDT_G6S")
-		(at 240.03 80.645 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7f647449-7acb-4329-8f33-6a4ffefcba7d")
-		(property "Reference" "SW1"
-			(at 267.97 73.6599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SW_DPDT_G6S"
-			(at 267.97 76.1999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 240.03 90.805 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 240.03 88.265 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Switch, dual pole double throw"
-			(at 258.318 75.057 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "10"
-			(uuid "1ae62155-b288-40c7-b7bf-3daa781334fa")
-		)
-		(pin "8"
-			(uuid "075d55d4-f796-478a-a707-c961864d98ad")
-		)
-		(pin "1"
-			(uuid "a2c62c3a-7d40-409a-844b-c0db90af5e6c")
-		)
-		(pin "9"
-			(uuid "8acb52d1-e044-4588-9b55-53e2d8bc0ef2")
-		)
-		(pin "5"
-			(uuid "72f5796f-5c3a-401f-92de-b96b579dac6e")
-		)
-		(pin "3"
-			(uuid "d12739d2-b90d-4b8b-9195-ea07676ea38e")
-		)
-		(pin "12"
-			(uuid "f546af65-f383-4300-b774-d17cef6b9ff6")
-		)
-		(pin "4"
-			(uuid "7ba3b644-21a2-4acc-a2b6-4402ca86f64c")
-		)
-		(instances
-			(project ""
-				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
-					(reference "SW1")
 					(unit 1)
 				)
 			)
