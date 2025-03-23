@@ -3,13 +3,21 @@ View this project on [CADLAB.io](https://cadlab.io/project/28966).
 # DIMECRES_C_retrovisors
 ## Autors
 - Nom 1 (@RaulRoGue)
-- Nom 2 (@usuariGitHub)
+- Nom 2 (@inesquiot)
 ## Versió - v1.0 ## Curs - Assignatura de Disseny de PCBs amb KiCad - [Curs 2024-2025]
 
 ## Objectiu
-Dissenyar una pcb que controli el plegament/desplegament del retrovisor, l'ajust del mirall amb motors,
-la pcb també ha d'incloure un sensor que detecti els punts morts, un calefactor per evitar l'entelament
-i una llum indicadora de direcció.
+Dissenyar una placa de circuit imprès (PCB) capaç de gestionar diverses funcions relacionades amb el retrovisor d’un vehicle. Aquesta PCB ha d’incloure les següents característiques:
+
+- Control del plegament i desplegament del retrovisor, mitjançant motors elèctrics que permetin modificar-ne la posició de manera automàtica.
+
+- Ajust de l'orientació del mirall, també motoritzat, per adaptar-lo segons les necessitats del conductor.
+
+- Integració d’un sensor de detecció de punts morts, que alerti el conductor de la presència de vehicles o obstacles en zones de visibilitat reduïda.
+
+- Incorporació d’un sistema de calefacció, per evitar l'entelament del mirall en condicions de fred o humitat.
+
+- Implementació d’una llum indicadora de direcció, sincronitzada amb els intermitents del vehicle per millorar la visibilitat i la seguretat en maniobres.
 
 ## Requisits i especificacions
 - 3 motors (moviment de mirall vertical i horitzontal, i plegat del retrovisor) amb
@@ -43,3 +51,4 @@ els seus finals de carrera.
 | 2025-03-20 | Raul | `main` | Creació del projecte |
 | 2025-03-21 | Raul | `main` | Llista materials | 
 | 2025-03-23 | Raul | `main` | Sch. Regulador |
+| 2025-03-23 | Ines | `main` | Esquemàtic KICAD |
