@@ -40,4 +40,5 @@ els seus finals de carrera.
 | Data | Autor | Branch | Descripció |
 |------|------|--------|------------| 
 | 2025-03-20 | Raul | `main` | Creació del projecte |
-| 2025-03-21 | Raul | `main` | LLista materials | 
+| 2025-03-21 | Raul | `main` | Llista materials | 
+| 2025-03-23 | Raul | `main` | Sch. Regulador |
