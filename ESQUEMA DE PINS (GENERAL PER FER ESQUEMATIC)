@@ -1,0 +1,16 @@
+CODI DE PINS: 
+
+DRIVER: L298N	
+VCC (Pin 9)	Alimentación Motor	12V
+GND (Pin 8, 4, 5, 13)	Tierra	GND
+5V Logic (Pin 6)	Alimentación lógica	5V
+IN1 (Pin 5)	Control Motor 1	RB0
+IN2 (Pin 7)	Control Motor 1	RB1
+OUT1 (Pin 2)	Motor 1 (+)	Motor
+OUT2 (Pin 3)	Motor 1 (-)	Motor
+IN3 (Pin 10)	Control Motor 2	RB2
+IN4 (Pin 12)	Control Motor 2	RB3
+OUT3 (Pin 13)	Motor 2 (+)	Motor
+OUT4 (Pin 14)	Motor 2 (-)	Motor
+Enable A (Pin 6)	PWM Motor 1	RC2 (PWM)
+Enable B (Pin 11)	PWM Motor 2	RC1 (PWM)
