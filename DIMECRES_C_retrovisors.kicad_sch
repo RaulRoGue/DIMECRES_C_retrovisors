@@ -6817,7 +6817,7 @@
 	)
 	(polyline
 		(pts
-			(xy 262.255 106.68) (xy 407.67 106.68)
+			(xy 262.89 106.68) (xy 407.67 106.68)
 		)
 		(stroke
 			(width 0)
@@ -8264,6 +8264,16 @@
 			(type default)
 		)
 		(uuid "8e96ca94-6653-44ba-8c1b-8eb04251d566")
+	)
+	(polyline
+		(pts
+			(xy 85.725 182.245) (xy 85.725 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ea17e1d-26e8-4bc8-8f27-63ea6ad20860")
 	)
 	(wire
 		(pts
