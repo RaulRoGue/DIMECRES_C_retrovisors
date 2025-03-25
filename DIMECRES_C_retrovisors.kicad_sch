@@ -6121,7 +6121,7 @@
 	)
 	(text "DRIVERS\n\n"
 		(exclude_from_sim no)
-		(at 343.535 19.685 0)
+		(at 339.725 18.415 0)
 		(effects
 			(font
 				(size 3 3)
