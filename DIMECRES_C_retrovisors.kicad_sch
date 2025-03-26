@@ -5027,7 +5027,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5045,7 +5045,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6240,7 +6240,7 @@
 	)
 	(text "REGULADOR"
 		(exclude_from_sim no)
-		(at 168.91 17.145 0)
+		(at 183.515 17.78 0)
 		(effects
 			(font
 				(size 3 3)
@@ -6527,6 +6527,12 @@
 		(uuid "36a671be-5395-4886-85a7-cf5e780ef887")
 	)
 	(junction
+		(at 156.21 26.035)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37d12b1d-ccb7-4179-a2f6-357cb9a65a64")
+	)
+	(junction
 		(at 64.135 267.335)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6561,12 +6567,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55721685-2fca-4d8a-9af5-d03221cb75c0")
-	)
-	(junction
-		(at 167.005 45.085)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5798fa7d-203c-4c18-825e-9a15326f97be")
 	)
 	(junction
 		(at 100.965 40.005)
@@ -6701,6 +6701,14 @@
 		(uuid "f989775b-4cc1-4068-a0b2-05bc44b274d8")
 	)
 	(no_connect
+		(at 331.47 233.68)
+		(uuid "254a2a76-88f5-439e-838e-c5980296893d")
+	)
+	(no_connect
+		(at 212.725 243.84)
+		(uuid "43cdc0bc-7db4-411e-a16d-e0d10d8de3c5")
+	)
+	(no_connect
 		(at 93.98 238.76)
 		(uuid "7c30a2a8-7443-4a9b-8b06-08dce7affd66")
 	)
@@ -6715,6 +6723,15 @@
 	(no_connect
 		(at 93.98 246.38)
 		(uuid "9b178dc8-6286-4760-bb60-e271f7bdcda6")
+	)
+	(bus_entry
+		(at 332.74 131.445)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bdb4291-fb7c-4f08-a980-3da363e46cfe")
 	)
 	(wire
 		(pts
@@ -7058,16 +7075,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.005 56.515) (xy 167.005 55.245)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21e1f929-8def-4219-8878-8ba46748a56f")
-	)
-	(wire
-		(pts
 			(xy 168.91 124.46) (xy 174.625 124.46)
 		)
 		(stroke
@@ -7085,6 +7092,16 @@
 			(type default)
 		)
 		(uuid "238694b6-ab55-4501-a99e-fa9b82798bda")
+	)
+	(wire
+		(pts
+			(xy 143.51 20.32) (xy 146.685 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2393b88e-c514-4178-a693-51bfe32f80ad")
 	)
 	(wire
 		(pts
@@ -7165,6 +7182,16 @@
 			(type default)
 		)
 		(uuid "2818f862-0ae0-4329-91ff-361686a7055d")
+	)
+	(wire
+		(pts
+			(xy 143.51 26.035) (xy 143.51 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28539625-928a-458b-b999-be805d8ea80f")
 	)
 	(wire
 		(pts
@@ -7458,7 +7485,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.005 45.085) (xy 175.26 45.085)
+			(xy 156.21 45.085) (xy 175.26 45.085)
 		)
 		(stroke
 			(width 0)
@@ -7928,6 +7955,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 20.32) (xy 156.21 26.035)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "596f5e84-8def-4f5e-aa1e-95a6c326a829")
+	)
+	(wire
+		(pts
 			(xy 373.38 48.895) (xy 373.38 52.705)
 		)
 		(stroke
@@ -8338,6 +8375,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.305 20.32) (xy 156.21 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c0f3287-698c-4c51-a7a1-f19b4fd74ec8")
+	)
+	(wire
+		(pts
 			(xy 99.06 182.245) (xy 126.365 182.245)
 		)
 		(stroke
@@ -8415,16 +8462,6 @@
 			(type default)
 		)
 		(uuid "807dca1a-d727-44cc-869e-9728c7f785db")
-	)
-	(wire
-		(pts
-			(xy 167.005 45.085) (xy 167.005 47.625)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80bbc5d1-4737-4233-8b43-7fbc60588274")
 	)
 	(wire
 		(pts
@@ -9468,16 +9505,6 @@
 	)
 	(wire
 		(pts
-			(xy 212.725 243.84) (xy 212.725 245.745)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d582b1c1-ae26-4f2f-8fd9-969ed7fdf5c5")
-	)
-	(wire
-		(pts
 			(xy 230.505 114.3) (xy 236.855 114.3)
 		)
 		(stroke
@@ -9555,16 +9582,6 @@
 			(type default)
 		)
 		(uuid "db0de6ba-3653-4c01-a5d1-16a0aee64c30")
-	)
-	(wire
-		(pts
-			(xy 212.725 245.745) (xy 205.74 245.745)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dca7e220-244c-47a1-9aff-1a4ebe3e4723")
 	)
 	(wire
 		(pts
@@ -9845,16 +9862,6 @@
 			(type default)
 		)
 		(uuid "f504f8be-1121-4cfd-b207-8bf958bd2b7d")
-	)
-	(wire
-		(pts
-			(xy 156.21 45.085) (xy 167.005 45.085)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f670fbd0-238b-4023-9826-c60567698b3c")
 	)
 	(wire
 		(pts
@@ -13285,10 +13292,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "34c3005b-c612-4f95-87c2-8b26add31ca0")
 		(property "Reference" "R2"
-			(at 149.86 19.685 90)
+			(at 149.86 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13296,7 +13302,7 @@
 			)
 		)
 		(property "Value" "3k9"
-			(at 149.86 22.225 90)
+			(at 149.86 29.845 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13340,6 +13346,74 @@
 			(project "DIMECRES_C_retrovisors"
 				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 150.495 20.32 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "351b3cfe-1d72-4ede-b67e-f800558812d6")
+		(property "Reference" "C18"
+			(at 150.495 12.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1n"
+			(at 150.495 15.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.305 19.3548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 150.495 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 150.495 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8254bd5-1cbe-4e6a-8ad0-63e025769944")
+		)
+		(pin "2"
+			(uuid "2f520822-7f7a-4bba-8741-3247a2f58dcb")
+		)
+		(instances
+			(project ""
+				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -14904,72 +14978,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 205.74 245.745 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "629f4783-d850-4fcd-b69c-fd5911e910c9")
-		(property "Reference" "#PWR017"
-			(at 205.74 252.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 205.74 250.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 205.74 245.745 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 245.745 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 205.74 245.745 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "48fefe70-59ed-432f-ae00-935ff581b511")
-		)
-		(instances
-			(project ""
-				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Regulator_Linear:LM1117DT-ADJ")
 		(at 187.96 45.085 0)
 		(unit 1)
@@ -16342,7 +16350,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "120u"
 			(at 104.14 48.8949 0)
 			(effects
 				(font
@@ -16590,76 +16598,6 @@
 			(project "DIMECRES_C_retrovisors"
 				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
 					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 167.005 51.435 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8657e99d-868b-4270-b828-769189ed7c1a")
-		(property "Reference" "R3"
-			(at 168.91 50.1649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "5"
-			(at 168.91 52.7049 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 168.783 51.435 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 167.005 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 167.005 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5deb8c1a-6180-41f4-94d2-746ee7303b2e")
-		)
-		(pin "2"
-			(uuid "0eecbd07-f2e4-424c-97a2-edce4a0cd246")
-		)
-		(instances
-			(project "DIMECRES_C_retrovisors"
-				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -17291,7 +17229,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220u"
+		(property "Value" "470u"
 			(at 160.02 52.705 0)
 			(effects
 				(font
@@ -17407,6 +17345,80 @@
 			(project ""
 				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
 					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PracticasKiCad:Sensor_SR55")
+		(at 91.44 178.435 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1639363-68c8-44e5-847f-4b483f6d2cb0")
+		(property "Reference" "U10"
+			(at 91.44 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 91.44 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 91.44 178.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 178.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 178.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6f51a8ac-7664-4c66-b3e9-7e072fcd142b")
+		)
+		(pin "1"
+			(uuid "3cf54d3d-b46a-4a5a-8403-76bf49805e30")
+		)
+		(pin "4"
+			(uuid "bcfbcdff-13b3-4f20-ae8b-f55ae727d01a")
+		)
+		(pin "3"
+			(uuid "822a1a23-66f1-4ffc-8b31-7430ed3155d6")
+		)
+		(instances
+			(project ""
+				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -17539,80 +17551,6 @@
 			(project "DIMECRES_C_retrovisors"
 				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
 					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PracticasKiCad:Sensor_SR55")
-		(at 91.44 178.435 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b770e8ed-3518-4dfe-a4f4-70e8456eeae2")
-		(property "Reference" "U10"
-			(at 91.44 169.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 91.44 172.085 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 91.44 178.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 178.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 91.44 178.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a004d851-3ac5-47e6-98ea-a60e31f773ad")
-		)
-		(pin "4"
-			(uuid "bb5af1ec-af7b-4a53-8aca-3604210d53bd")
-		)
-		(pin "2"
-			(uuid "7fbf5ad2-3428-4a26-8bea-1a323a01c57a")
-		)
-		(pin "3"
-			(uuid "92e82bf8-7e08-40a5-ac96-2d49a025e6d6")
-		)
-		(instances
-			(project ""
-				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
-					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -17768,7 +17706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "22u"
 			(at 226.06 50.1649 0)
 			(effects
 				(font
@@ -18599,15 +18537,15 @@
 		(fields_autoplaced yes)
 		(uuid "de5cce17-f5f8-4455-bb4f-f9c3196a7f18")
 		(property "Reference" "L1"
-			(at 149.86 40.005 90)
+			(at 149.86 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47u"
-			(at 149.86 42.545 90)
+		(property "Value" "33u"
+			(at 149.86 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19167,72 +19105,6 @@
 			(project ""
 				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 167.005 56.515 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f67ff307-e6c1-4cd0-a622-dddbcd3a128a")
-		(property "Reference" "#PWR038"
-			(at 167.005 62.865 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 167.005 61.595 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.005 56.515 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 167.005 56.515 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 167.005 56.515 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8e671828-8bbd-496c-aade-c05897a1d61a")
-		)
-		(instances
-			(project "DIMECRES_C_retrovisors"
-				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
-					(reference "#PWR038")
 					(unit 1)
 				)
 			)
