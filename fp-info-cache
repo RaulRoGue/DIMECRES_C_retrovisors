@@ -1,4 +1,4 @@
-24747797931088829
+24746057035225247
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87647,6 +87647,13 @@ TL3305 Series Tact Switch
 4
 2
 PracticasKiCad
+CH201
+
+
+0
+8
+8
+PracticasKiCad
 Crystal_SMD_HC49-SD_Practica3
 SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
 SMD SMT crystal
@@ -87674,20 +87681,6 @@ THT Terminal Block TE 282834-2 pitch 2.54mm size 5.54x6.5mm drill 1.1mm pad 2.1m
 0
 2
 2
-PracticasKiCad
-Untitled
-
-
-0
-0
-0
-PracticasKiCad
-Untitled_1
-
-
-0
-0
-0
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
