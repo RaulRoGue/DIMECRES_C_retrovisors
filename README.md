@@ -54,5 +54,6 @@ els seus finals de carrera.
 | 2025-03-20 | Raul | `main` | Creació del projecte |
 | 2025-03-21 | Raul | `main` | Llista materials | 
 | 2025-03-23 | Raul | `main` | Sch. Regulador+Driver |
-| 2025-03-23 | Ines | `microcontrolador` | Sch. Microcontrolador |
+| 2025-03-23 | Ines | `main` | Sch. Microcontrolador |
 | 2025-03-25 | Raul | `main` |Act. Sch. |
+| 2025-03-29 | Raul | `main` | Sch. Def. |
