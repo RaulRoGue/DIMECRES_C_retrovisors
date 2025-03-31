@@ -57,3 +57,4 @@ els seus finals de carrera.
 | 2025-03-23 | Ines | `main` | Sch. Microcontrolador |
 | 2025-03-25 | Raul | `main` |Act. Sch. |
 | 2025-03-29 | Raul | `main` | Sch. Def. |
+| 2025-03-31 | Raul | `main` | Layout v1 | 
