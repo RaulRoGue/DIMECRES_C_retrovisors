@@ -10205,6 +10205,16 @@
 		)
 		(uuid "20128a29-0660-4c68-a0b0-0fdb719c24bd")
 	)
+	(label "M_calen"
+		(at 346.075 218.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "211797fc-add8-4bc5-bbac-2de43d373356")
+	)
 	(label "S_INT"
 		(at 163.195 178.435 0)
 		(effects
@@ -10276,6 +10286,16 @@
 			(justify left bottom)
 		)
 		(uuid "7c416f52-4122-4e96-8747-2720c9b24a94")
+	)
+	(label "M_Inter"
+		(at 228.6 231.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7eff20fd-867c-47ce-b8f2-120f01f85cb3")
 	)
 	(label "Motor1B"
 		(at 342.9 55.88 0)
