@@ -6731,7 +6731,7 @@
 		(uuid "04144024-c997-4cde-be9e-bed46f5b793a")
 	)
 	(no_connect
-		(at 145.415 160.655)
+		(at 141.605 142.875)
 		(uuid "09b48ba9-a5de-4b9d-be82-82fac0dffa83")
 	)
 	(no_connect
@@ -6783,7 +6783,7 @@
 		(uuid "a725ea64-9996-451b-a91e-711facc9d51e")
 	)
 	(no_connect
-		(at 145.415 163.195)
+		(at 76.835 178.435)
 		(uuid "bb506b11-c600-4d6e-8f18-f5953746a85e")
 	)
 	(no_connect
@@ -11100,7 +11100,7 @@
 	)
 	(global_label "Act_Rele_M2{slash}M3"
 		(shape input)
-		(at 141.605 142.875 0)
+		(at 145.415 160.655 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11110,7 +11110,7 @@
 		)
 		(uuid "159007ce-0946-41c9-acd9-c482ba768ede")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.193 142.875 0)
+			(at 164.003 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11584,22 +11584,22 @@
 	)
 	(global_label "Intermitente"
 		(shape input)
-		(at 76.835 178.435 180)
+		(at 145.415 163.195 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "61f051b0-780a-436c-b5a3-39be70b22548")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.4198 178.435 0)
+			(at 159.8302 163.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
