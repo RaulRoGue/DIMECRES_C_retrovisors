@@ -43,6 +43,7 @@ els seus finals de carrera.
 | Sensor | CH201 | | [Enllaç](https://www.mouser.com/catalog/specsheets/TDK_10012020_DS-000379-CH201-v1.1.pdf?_gl=1*1hqi1zx*_gcl_aw*R0NMLjE3NDI5MTUyMTYuQ2owS0NRanc0djYtQmhEdUFSSXNBTHBybTMzcE15Sndnb2ZsUDhyU0hKRnlfdW96UDFVbDk0eHJyYVVfRHJ2cTFwWWpSSVZXbWplNlU1c2FBanUxRUFMd193Y0I.*_gcl_au*MjA5Mjk5OTQ4Mi4xNzQwNTE4MTMx*_ga*NzY5MTk2MTM5LjE3NDA1MjAxNTA.*_ga_15W4STQT4T*MTc0Mjk0MjUwMy4yMC4xLjE3NDI5NDMzODEuNTguMC4w) | Mouser | 1 |
 | Regulador 1.8V | ADM7160 | 5-TSOT | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/ADM7160.pdf) | Analog Devices | 1 |
 | Diodes Circulació | 1N5817 | DO-41 | [Enllaç](https://www.mouser.es/datasheet/2/389/1n5817-1848842.pdf) | Mouser | 3 | 
+| Diodes Drivers | 1N5822 | DO-201AD | [Enllaç](https://www.mouser.es/datasheet/2/389/1n5822-1848813.pdf) | Mouser | 8 | 
 ## Funcionalitats
 - [ ] Funció 1
 - [ ] Funció 2
