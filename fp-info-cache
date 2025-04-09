@@ -1,4 +1,4 @@
-24744311439744954
+24746057341707378
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87647,6 +87647,13 @@ TL3305 Series Tact Switch
 4
 2
 PracticasKiCad
+CH201
+
+
+0
+8
+8
+PracticasKiCad
 Crystal_SMD_HC49-SD_Practica3
 SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
 SMD SMT crystal
@@ -87668,12 +87675,12 @@ Diode 5W series Axial Horizontal pin pitch 12.7mm  length 8.9mm diameter 3.7mm
 2
 2
 PracticasKiCad
-Untitled
-
-
+TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal
+Terminal Block TE 282834-2, 2 pins, pitch 2.54mm, size 5.54x6.5mm, drill diameter 1.1mm, pad diameter 2.1mm, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
+THT Terminal Block TE 282834-2 pitch 2.54mm size 5.54x6.5mm drill 1.1mm pad 2.1mm
 0
-0
-0
+2
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
