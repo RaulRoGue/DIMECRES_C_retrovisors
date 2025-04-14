@@ -37,13 +37,14 @@ els seus finals de carrera.
 | Rele DPDT | G6S-2F| | [Enllaç](https://docs.rs-online.com/f19f/0900766b813679a7.pdf) | Rs Amidara | 1 | 
 | OpAmp | ADA4511-2 | Soic-8 |[Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/ada4511-2.pdf) | Analog Devices | 1 |
 | Conv. DC/DC Buck | LM2596 | TO-263  | [Enllaç](https://www.ti.com/lit/ds/symlink/lm2596.pdf?ts=1742644968953&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FLM2596) | Texas Instruments | 1 | 
-| Regulador 5V | LT1117-5 | TO-252 | [Enllaç](https://www.ti.com/lit/ds/symlink/lm1117.pdf?ts=1742626115453&ref_url=https%253A%252F%252Feu.mouser.com%252F) | Texas Instruments | 1 |
+| Regulador 5V | LT1117-5 | TO-263 | [Enllaç](https://www.ti.com/lit/ds/symlink/lm1117.pdf?ts=1742626115453&ref_url=https%253A%252F%252Feu.mouser.com%252F) | Texas Instruments | 1 |
 | Diode Schottky | SS3P5 | SMP | [Enllaç](https://www.vishay.com/docs/88997/ss3p5.pdf)| Mouser | 1 | 
 | Transistors BJT | DTC144EE-TP |  SOT523 | [Enllaç](https://eu.mouser.com/datasheet/2/258/DTC144EE_SOT_523_-3422355.pdf) | Mouser | 3 | 
 | Sensor | CH201 | | [Enllaç](https://www.mouser.com/catalog/specsheets/TDK_10012020_DS-000379-CH201-v1.1.pdf?_gl=1*1hqi1zx*_gcl_aw*R0NMLjE3NDI5MTUyMTYuQ2owS0NRanc0djYtQmhEdUFSSXNBTHBybTMzcE15Sndnb2ZsUDhyU0hKRnlfdW96UDFVbDk0eHJyYVVfRHJ2cTFwWWpSSVZXbWplNlU1c2FBanUxRUFMd193Y0I.*_gcl_au*MjA5Mjk5OTQ4Mi4xNzQwNTE4MTMx*_ga*NzY5MTk2MTM5LjE3NDA1MjAxNTA.*_ga_15W4STQT4T*MTc0Mjk0MjUwMy4yMC4xLjE3NDI5NDMzODEuNTguMC4w) | Mouser | 1 |
 | Regulador 1.8V | ADM7160 | 5-TSOT | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/ADM7160.pdf) | Analog Devices | 1 |
 | Diodes Circulació | 1N5817 | DO-41 | [Enllaç](https://www.mouser.es/datasheet/2/389/1n5817-1848842.pdf) | Mouser | 3 | 
 | Diodes Drivers | 1N5822 | DO-201AD | [Enllaç](https://www.mouser.es/datasheet/2/389/1n5822-1848813.pdf) | Mouser | 8 | 
+| Traductor Voltatge | LSF0002 | DTQ(X2S0N) | [Enllaç](https://www.ti.com/lit/ds/symlink/lsf0002.pdf?ts=1744197376272&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FLSF0002) | Texas Instruments | 1 |
 ## Funcionalitats
 - [ ] Funció 1
 - [ ] Funció 2

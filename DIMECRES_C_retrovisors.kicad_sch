@@ -7801,7 +7801,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 67.945) (xy 38.1 67.945)
+			(xy 33.02 65.405) (xy 38.1 65.405)
 		)
 		(stroke
 			(width 0)
@@ -7901,7 +7901,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 67.945) (xy 48.26 67.945)
+			(xy 48.26 65.405) (xy 53.975 65.405)
 		)
 		(stroke
 			(width 0)
@@ -8991,7 +8991,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 67.945) (xy 33.02 75.565)
+			(xy 33.02 65.405) (xy 33.02 75.565)
 		)
 		(stroke
 			(width 0)
@@ -11493,7 +11493,7 @@
 	)
 	(global_label "B_Un{slash}Fold"
 		(shape input)
-		(at 53.34 67.945 0)
+		(at 53.975 65.405 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11503,7 +11503,7 @@
 		)
 		(uuid "19072cfc-2e92-44e6-bf4f-d72a67137d29")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.4246 67.945 0)
+			(at 67.0596 65.405 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13081,7 +13081,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 222.758 130.81 90)
 			(effects
 				(font
@@ -13911,7 +13911,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 213.0552 133.985 0)
 			(effects
 				(font
@@ -15615,7 +15615,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 232.918 130.81 90)
 			(effects
 				(font
@@ -15826,7 +15826,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 43.18 67.945 0)
+		(at 43.18 65.405 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15835,15 +15835,15 @@
 		(fields_autoplaced yes)
 		(uuid "42a41c88-b249-457b-8cfe-2abbadc574bd")
 		(property "Reference" "SW2"
-			(at 43.18 60.325 0)
+			(at 43.18 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 43.18 62.865 0)
+		(property "Value" "UN/FOLD"
+			(at 43.18 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15851,7 +15851,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS647_Sx38"
-			(at 43.18 62.865 0)
+			(at 43.18 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15860,7 +15860,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 62.865 0)
+			(at 43.18 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15869,7 +15869,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 43.18 67.945 0)
+			(at 43.18 65.405 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16369,18 +16369,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4e0dc60d-dfc5-4271-88da-474dc3bac7ce")
 		(property "Reference" "SW4"
-			(at 45.72 78.105 0)
+			(at 47.625 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 45.72 80.645 0)
+		(property "Value" "UP"
+			(at 47.625 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17107,18 +17106,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "608c1c85-0013-44b9-bc84-1a5c1f1a0fa8")
 		(property "Reference" "SW6"
-			(at 45.72 95.885 0)
+			(at 45.72 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 45.72 98.425 0)
+		(property "Value" "LEFT"
+			(at 45.72 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17853,7 +17851,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 180.213 132.08 90)
 			(effects
 				(font
@@ -20265,7 +20263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin2"
+		(property "Footprint" "Package_TO_SOT_SMD:TO-263-3_TabPin2"
 			(at 187.96 45.72 0)
 			(effects
 				(font
@@ -21286,18 +21284,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "beb435f2-a076-4661-a3ba-b339d869ee43")
 		(property "Reference" "SW7"
-			(at 48.26 106.045 0)
+			(at 48.26 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 48.26 108.585 0)
+		(property "Value" "RIGHT"
+			(at 48.26 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21580,7 +21577,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 170.053 132.08 90)
 			(effects
 				(font
@@ -22441,18 +22438,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e0078034-b849-4196-8841-6d04dd50a828")
 		(property "Reference" "SW3"
-			(at 43.18 67.945 0)
+			(at 43.18 69.215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 43.18 70.485 0)
+		(property "Value" "HEAT"
+			(at 43.18 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23099,18 +23095,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f2a57687-b2d6-485e-8a85-8b8a30f69158")
 		(property "Reference" "SW5"
-			(at 45.72 88.265 0)
+			(at 45.72 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 45.72 90.805 0)
+		(property "Value" "DOWN"
+			(at 45.72 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23465,7 +23460,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PracticasKiCad:LSF0002"
 			(at 190.5 139.7 0)
 			(effects
 				(font
