@@ -44,7 +44,7 @@ els seus finals de carrera.
 | Regulador 1.8V | ADM7160 | 5-TSOT | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/ADM7160.pdf) | Analog Devices | 1 |
 | Diodes Circulació | 1N5817 | DO-41 | [Enllaç](https://www.mouser.es/datasheet/2/389/1n5817-1848842.pdf) | Mouser | 3 | 
 | Diodes Drivers | 1N5822 | DO-201AD | [Enllaç](https://www.mouser.es/datasheet/2/389/1n5822-1848813.pdf) | Mouser | 8 | 
-| Traductor Voltatge | LSF0002 | DTQ(X2S0N) | [Enllaç](https://www.ti.com/lit/ds/symlink/lsf0002.pdf?ts=1744197376272&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FLSF0002) | Texas Instruments | 1 |
+| Convertidor voltatge | LSF0002 | DTQ(X2S0N) | [Enllaç](https://www.ti.com/lit/ds/symlink/lsf0002.pdf?ts=1744197376272&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FLSF0002) | Texas Instruments | 1 |
 ## Funcionalitats
 - [ ] Funció 1
 - [ ] Funció 2
