@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.3772587"
-     inkscape:cx="1188.2299"
-     inkscape:cy="237.06512"
+     inkscape:zoom="0.68862935"
+     inkscape:cx="660.7328"
+     inkscape:cy="689.04992"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -695,6 +695,25 @@
        width="202.33796"
        height="33.710808"
        id="rect7-7-3" />
+    <marker
+       style="overflow:visible"
+       id="marker5-5"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5-2" />
+    </marker>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -766,11 +785,11 @@
        transform="matrix(2.7582561,0,0,3.4857554,-219.28009,-221.73659)"><tspan
          x="136.39714"
          y="105.27555"
-         id="tspan1">PIC18F4480
+         id="tspan50">PIC18F4480
 </tspan><tspan
          x="136.39714"
          y="109.2443"
-         id="tspan2">@300mA</tspan></text>
+         id="tspan51">@300mA</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -799,12 +818,12 @@
          style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
          x="187.57588"
          y="196.15195"
-         id="tspan31">TJA1042</tspan><tspan
+         id="tspan31">MSCP2551</tspan><tspan
          sodipodi:role="line"
          style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
          x="187.57588"
          y="203.49243"
-         id="tspan34">5V @70mA</tspan><tspan
+         id="tspan34">5V @75mA</tspan><tspan
          sodipodi:role="line"
          style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
          x="187.57588"
@@ -892,7 +911,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect33);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="419.97461"
          y="593.16281"
-         id="tspan5">RX  TX</tspan></text>
+         id="tspan52">RX  TX</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.27382835,0,0,0.47376546,33.375513,-104.58342)"
@@ -900,7 +919,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect34);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="436.375"
          y="706.16867"
-         id="tspan6">TXD RXD</tspan></text>
+         id="tspan53">TXD RXD</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect35"
@@ -988,7 +1007,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect59);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="1210.6348"
          y="358.01632"
-         id="tspan7">Rele G6S</tspan></text>
+         id="tspan54">Rele G6S</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.44816437,0,0,0.56351728,-104.02422,-130.47366)"
@@ -996,15 +1015,15 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect65-1);shape-padding:0;display:inline;fill:url(#linearGradient47);fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal"><tspan
          x="840.80078"
          y="588.90695"
-         id="tspan8">Led indicador
+         id="tspan55">Led indicador
 </tspan><tspan
          x="840.80078"
          y="603.90695"
-         id="tspan9">punt mort
+         id="tspan56">punt mort
 </tspan><tspan
          x="840.80078"
          y="618.90695"
-         id="tspan12">@20mA</tspan></text>
+         id="tspan57">@20mA</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -1074,7 +1093,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="1293.875"
          y="519.20382"
-         id="tspan13">LED indicador de direcció</tspan></text>
+         id="tspan58">LED indicador de direcció</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
@@ -1102,7 +1121,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan14">6b
+         id="tspan59">6b
 </tspan></text>
     <text
        xml:space="preserve"
@@ -1111,7 +1130,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-5);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan15">3b</tspan></text>
+         id="tspan60">3b</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#marker38)"
        d="m 163.55298,207.56557 v 14.94254"
@@ -1127,11 +1146,16 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect41);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="1427.2969"
          y="458.64718"
-         id="tspan16">Escalfador</tspan></text>
+         id="tspan61">Escalfador</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.997955;stroke-dasharray:none;marker-end:url(#marker5)"
-       d="m 76.581951,163.41414 c 1.911297,-0.76921 62.131509,0.46398 62.131509,0.46398"
+       d="m 76.966168,166.10366 c 0.566536,-7.8e-4 11.439382,-0.0464 11.439382,-0.0464"
        id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.997955;stroke-dasharray:none;marker-end:url(#marker5-5)"
+       d="m 129.73694,165.24714 c 0.56654,-7.8e-4 8.94197,-0.0464 8.94197,-0.0464"
+       id="path4-6"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
@@ -1140,7 +1164,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
-         id="tspan17">RA4</tspan></text>
+         id="tspan62">RA4</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40523818,0,0,0.47398349,-83.590151,-112.46288)"
@@ -1148,15 +1172,15 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-2);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
-         id="tspan18">MCLR
+         id="tspan63">MCLR
 </tspan><tspan
          x="558.08398"
          y="506.5046"
-         id="tspan19">PGD
+         id="tspan64">PGD
 </tspan><tspan
          x="558.08398"
          y="521.5046"
-         id="tspan20">PGC</tspan></text>
+         id="tspan65">PGC</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40523818,0,0,0.47398349,-78.642643,-75.053814)"
@@ -1169,6 +1193,13 @@
        height="26.895212"
        x="78.775864"
        y="75.315971" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1.07689;stroke-dasharray:none"
+       id="rect9-8"
+       width="40.713749"
+       height="30.465084"
+       x="88.669273"
+       y="150.55994" />
     <path
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#marker10)"
        d="m 103.74999,101.82696 -0.38421,24.20569 34.57956,-0.38421"
@@ -1184,7 +1215,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-22);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
-         id="tspan21">ICSP</tspan></text>
+         id="tspan66">ICSP</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#marker13)"
        d="m 226.69954,121.80626 h 26.12678 l -0.76844,-34.963774"
@@ -1208,7 +1239,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-7);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
-         id="tspan22">Motor 1</tspan></text>
+         id="tspan68">Motor 1</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40523818,0,0,0.47398349,99.556401,-197.82351)"
@@ -1216,10 +1247,10 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-7-3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
-         id="tspan23">Outputs màx @2A (subministrat </tspan><tspan
+         id="tspan69">Outputs màx @2A (subministrat </tspan><tspan
          x="558.08398"
          y="506.5046"
-         id="tspan26">per Vbat) </tspan></text>
+         id="tspan70">per Vbat) </tspan></text>
     <rect
        style="display:inline;fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-dasharray:none"
        id="rect2-8-2"
@@ -1235,7 +1266,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-7-7);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
-         id="tspan27">Motor 2</tspan></text>
+         id="tspan71">Motor 2</tspan></text>
     <rect
        style="display:inline;fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-dasharray:none"
        id="rect2-8-8"
@@ -1259,7 +1290,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-7-1);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
-         id="tspan28">Motor 3</tspan></text>
+         id="tspan72">Motor 3</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#marker19)"
        d="m 345.037,76.071152 29.8851,-10e-7"
@@ -1306,7 +1337,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-5-1);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan29">2b</tspan></text>
+         id="tspan73">2b</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40370474,0,0,0.45449301,117.13314,-205.9021)"
@@ -1314,7 +1345,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-5-1-54);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan30">6b</tspan></text>
+         id="tspan74">6b</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40370474,0,0,0.45449301,136.50448,-190.55627)"
@@ -1322,7 +1353,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-5-1-54-1);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan35">2b</tspan></text>
+         id="tspan75">2b</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40370474,0,0,0.45449301,156.04525,-230.15119)"
@@ -1330,7 +1361,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-5-1-54-1-5);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan37">2b</tspan></text>
+         id="tspan76">2b</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40370474,0,0,0.45449301,181.42689,-272.04794)"
@@ -1338,7 +1369,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-5-1-5);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan41">2b</tspan></text>
+         id="tspan77">2b</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40370474,0,0,0.45449301,238.57689,-252.20419)"
@@ -1346,7 +1377,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-5-1-3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan42">2b</tspan></text>
+         id="tspan78">2b</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.40370474,0,0,0.45449301,236.19564,-239.50419)"
@@ -1354,7 +1385,7 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-5-1-9);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="283.91992"
          y="718.94796"
-         id="tspan43">2b</tspan></text>
+         id="tspan79">2b</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#marker28)"
        d="m 270.53244,122.72874 -0.12416,7.24214 -42.94027,-0.096"
@@ -1419,11 +1450,11 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-41);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"><tspan
          x="558.08398"
          y="491.5046"
-         id="tspan44">AN1
+         id="tspan81">AN1
 </tspan><tspan
          x="558.08398"
          y="506.5046"
-         id="tspan45">AN2</tspan></text>
+         id="tspan82">AN2</tspan></text>
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-dasharray:none"
        id="rect39-0"
@@ -1481,14 +1512,32 @@
        transform="matrix(2.374826,0,0,2.9174879,-47.592943,-310.84679)"><tspan
          x="29.34173"
          y="162.46625"
-         id="tspan47">Sensor
+         id="tspan83">Sensor
 </tspan><tspan
          x="29.34173"
          y="166.43499"
-         id="tspan48">CH201
+         id="tspan84">CH201
 </tspan><tspan
          x="29.34173"
          y="170.40374"
-         id="tspan49">1.8V @20mA </tspan></text>
+         id="tspan85">1.8V @20mA </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:22.6202;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="29.34173"
+       y="162.46625"
+       id="text4-5"
+       transform="matrix(2.374826,0,0,2.9174879,20.289735,-313.81169)"><tspan
+         x="29.34173"
+         y="162.46625"
+         id="tspan86">Convert.
+</tspan><tspan
+         x="29.34173"
+         y="166.43499"
+         id="tspan87">LSF0002
+</tspan><tspan
+         x="29.34173"
+         y="170.40374"
+         id="tspan88">  </tspan></text>
   </g>
 </svg>
