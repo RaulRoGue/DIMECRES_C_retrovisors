@@ -45,7 +45,10 @@ els seus finals de carrera.
 | Diodes Circulació | 1N5817 | DO-41 | [Enllaç](https://www.mouser.es/datasheet/2/389/1n5817-1848842.pdf) | Mouser | 3 | 
 | Diodes Drivers | 1N5822 | DO-201AD | [Enllaç](https://www.mouser.es/datasheet/2/389/1n5822-1848813.pdf) | Mouser | 8 | 
 | Convertidor voltatge | LSF0002 | DTQ(X2S0N) | [Enllaç](https://www.ti.com/lit/ds/symlink/lsf0002.pdf?ts=1744197376272&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FLSF0002) | Texas Instruments | 1 |
-## Funcionalitats
+| Led Angle Mort | LS R976-NR-1 | 0805 (2012) | [Enllaç](https://www.mouser.es/datasheet/2/588/asset_pdf_5057921-3418987.pdf) | Mouser | 1 | 
+| Led Alimentació | LTST-C170GKT | 0805 (2012) | [Enllaç](https://www.mouser.es/datasheet/2/239/Lite_On_LTST_C170GKT-1175235.pdf) | Mouser | 1 | 
+| Connectors | 1548128 | | [Enllaç](https://www.mouser.es/ProductDetail/Phoenix-Contact/1548128?qs=sGAEpiMZZMvPvGwLNS671%252B7aWYNAXBhXzgY96QwGrbRuFgPlhHXzng%3D%3D) | Mouser | 1 |
+## Funcionalitats 
 - [ ] Funció 1
 - [ ] Funció 2
 - [ ] Funció 3
