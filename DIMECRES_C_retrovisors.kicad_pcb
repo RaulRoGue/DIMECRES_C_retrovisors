@@ -30366,6 +30366,17 @@
 		)
 	)
 	(gr_rect
+		(start 99.45 131.05)
+		(end 136 138.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "ea96aa04-f068-4bda-b08a-d0c26ccff915")
+	)
+	(gr_rect
 		(start 86.4912 48.992)
 		(end 194.78 140.8)
 		(stroke
@@ -30398,6 +30409,18 @@
 				(size 1 1)
 				(thickness 0.2)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Projecte_Retrovisors_2025\nInes Fernandes\nRaul Robres\nEngenyeria Electrònica de Telecomunicació UB"
+		(at 100 137.75 0)
+		(layer "F.SilkS")
+		(uuid "4d27b246-ecc7-43f7-8b70-8f8a41a5bfe0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)

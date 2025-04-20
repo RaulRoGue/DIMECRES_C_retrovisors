@@ -50,6 +50,8 @@ els seus finals de carrera.
 | Connectors | 1548128 | | [Enllaç](https://www.mouser.es/ProductDetail/Phoenix-Contact/1548128?qs=sGAEpiMZZMvPvGwLNS671%252B7aWYNAXBhXzgY96QwGrbRuFgPlhHXzng%3D%3D) | Mouser | 6 | 
 | Botons | PTS647SN50SMTR2 LFS | | [Enllaç](https://www.ckswitches.com/media/2567/pts647.pdf) | Mouser | 6 | 
 | Cristall | ABLS2-4.000MHz-B4Y-T | HC-49-US | [Enllaç](https://www.mouser.es/datasheet/2/3/ABLS2-1775116.pdf) | Mouser | 1 | 
+| DE9 | DE-9S-1A8N-A197 | | [Enllaç](https://www.mouser.es/datasheet/2/578/original-3313093.pdf) | Mouser | 2 | 
+| 
 ## Funcionalitats 
 - [ ] Funció 1
 - [ ] Funció 2
