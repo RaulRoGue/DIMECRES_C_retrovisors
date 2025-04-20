@@ -47,7 +47,9 @@ els seus finals de carrera.
 | Convertidor voltatge | LSF0002 | DTQ(X2S0N) | [Enllaç](https://www.ti.com/lit/ds/symlink/lsf0002.pdf?ts=1744197376272&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FLSF0002) | Texas Instruments | 1 |
 | Led Angle Mort | LS R976-NR-1 | 0805 (2012) | [Enllaç](https://www.mouser.es/datasheet/2/588/asset_pdf_5057921-3418987.pdf) | Mouser | 1 | 
 | Led Alimentació | LTST-C170GKT | 0805 (2012) | [Enllaç](https://www.mouser.es/datasheet/2/239/Lite_On_LTST_C170GKT-1175235.pdf) | Mouser | 1 | 
-| Connectors | 1548128 | | [Enllaç](https://www.mouser.es/ProductDetail/Phoenix-Contact/1548128?qs=sGAEpiMZZMvPvGwLNS671%252B7aWYNAXBhXzgY96QwGrbRuFgPlhHXzng%3D%3D) | Mouser | 1 |
+| Connectors | 1548128 | | [Enllaç](https://www.mouser.es/ProductDetail/Phoenix-Contact/1548128?qs=sGAEpiMZZMvPvGwLNS671%252B7aWYNAXBhXzgY96QwGrbRuFgPlhHXzng%3D%3D) | Mouser | 6 | 
+| Botons | PTS647SN50SMTR2 LFS | | [Enllaç](https://www.ckswitches.com/media/2567/pts647.pdf) | Mouser | 6 | 
+| Cristall | ABLS2-4.000MHz-B4Y-T | HC-49-US | [Enllaç](https://www.mouser.es/datasheet/2/3/ABLS2-1775116.pdf) | Mouser | 1 | 
 ## Funcionalitats 
 - [ ] Funció 1
 - [ ] Funció 2
