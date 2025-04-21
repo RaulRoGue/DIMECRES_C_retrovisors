@@ -8351,7 +8351,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 189.865) (xy 210.82 189.865)
+			(xy 205.74 189.865) (xy 223.52 189.865)
 		)
 		(stroke
 			(width 0)
@@ -10731,16 +10731,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 189.865) (xy 223.52 189.865)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5d21c75-37f8-4163-9384-735364cebe3c")
-	)
-	(wire
-		(pts
 			(xy 133.35 100.965) (xy 138.43 100.965)
 		)
 		(stroke
@@ -11079,6 +11069,16 @@
 		)
 		(uuid "211797fc-add8-4bc5-bbac-2de43d373356")
 	)
+	(label "OSC2"
+		(at 58.42 163.195 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "35ac8a1d-1318-4e10-89e5-395045174e05")
+	)
 	(label "S_INT"
 		(at 227.33 140.97 180)
 		(effects
@@ -11108,6 +11108,16 @@
 			(justify left bottom)
 		)
 		(uuid "519fec38-4110-44af-97d0-966a1fd6f708")
+	)
+	(label "OSC1"
+		(at 60.325 160.655 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5fb6835a-356d-4484-bf5c-bcf8e75d159c")
 	)
 	(label "Motor2B"
 		(at 375.285 87.63 0)
@@ -11161,6 +11171,26 @@
 		)
 		(uuid "7eff20fd-867c-47ce-b8f2-120f01f85cb3")
 	)
+	(label "SDA1"
+		(at 208.28 148.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "84e9beb9-f376-45ed-868b-ad6f3f8006ae")
+	)
+	(label "OPA_P"
+		(at 314.96 177.165 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8af9a7ea-f332-491e-8f7e-eb32a4ee3695")
+	)
 	(label "Motor1B"
 		(at 339.725 55.88 0)
 		(effects
@@ -11180,6 +11210,26 @@
 			(justify left bottom)
 		)
 		(uuid "8fffa684-5b52-4c1b-8803-001dc1384209")
+	)
+	(label "FB"
+		(at 144.78 33.655 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ead7d86-102e-4fe9-8ffa-6f675b111cec")
+	)
+	(label "OPA_N"
+		(at 314.96 189.23 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a5c93f0a-c007-4f66-a9af-1709f193c4a3")
 	)
 	(label "S_PROG"
 		(at 159.385 165.735 0)
@@ -11201,6 +11251,16 @@
 		)
 		(uuid "b8d37e96-a922-4242-b43b-3b05ea75d968")
 	)
+	(label "SCL1"
+		(at 207.645 144.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "baa6ddfa-c0cc-4b09-a7bf-c43763c73ecd")
+	)
 	(label "M_D"
 		(at 361.315 81.28 0)
 		(effects
@@ -11210,6 +11270,16 @@
 			(justify left bottom)
 		)
 		(uuid "bb0d6c82-8a97-44a3-b15b-a257164ac529")
+	)
+	(label "Tran_Int"
+		(at 202.565 248.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c50baf86-de3a-4c3f-82ac-ed68810a3aeb")
 	)
 	(label "S_PROG"
 		(at 228.6 152.4 180)
@@ -11231,6 +11301,26 @@
 		)
 		(uuid "cb76f4c5-264b-4f82-a2fa-d7043d106724")
 	)
+	(label "OPB_N"
+		(at 368.3 188.595 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dbc63b41-4192-4912-a7d3-82e8bac4a3ea")
+	)
+	(label "OUT_BUCK"
+		(at 136.525 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dc60a1dc-7685-4836-9542-d26a957941f2")
+	)
 	(label "S_SDA"
 		(at 149.225 147.955 0)
 		(effects
@@ -11251,6 +11341,16 @@
 		)
 		(uuid "e2663862-4c26-46b0-96e0-984852cd53a4")
 	)
+	(label "Tran_Cal"
+		(at 349.885 229.235 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1b6f773-3544-4878-b9c9-f2e1542abdcc")
+	)
 	(label "CAN-"
 		(at 76.2 261.62 0)
 		(effects
@@ -11270,6 +11370,16 @@
 			(justify left bottom)
 		)
 		(uuid "f6e984e0-7551-4d44-9b28-d98e1bcc6c8c")
+	)
+	(label "OPB_P"
+		(at 368.3 176.53 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe91234d-62d3-470d-b0e8-fc0a0b957612")
 	)
 	(global_label "MCLR"
 		(shape input)
@@ -16871,73 +16981,6 @@
 			(project "DIMECRES_C_retrovisors"
 				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
 					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 214.63 189.865 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "59ce11ad-413a-419c-b3c3-5e5952cbe6c1")
-		(property "Reference" "R8"
-			(at 214.63 192.405 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 214.63 194.945 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 214.63 191.643 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 214.63 189.865 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 214.63 189.865 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4435e3ba-c78d-4f89-9fe7-f0a0f4bb62e0")
-		)
-		(pin "2"
-			(uuid "4ea913c9-d59f-4daf-ab7a-9049280f158c")
-		)
-		(instances
-			(project ""
-				(path "/c3f67613-7195-4d14-ab28-355c40c698ae"
-					(reference "R8")
 					(unit 1)
 				)
 			)

@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -58,40 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|107578322|69034922|0b7da5e5-c179-433f-ae94-7b997df51ea6|ac00dcfa-35a0-4b77-9ce6-58e7ac5190fc",
-          ""
-        ],
-        [
-          "clearance|107696000|68627600|965d6ac1-8628-4d25-af85-d96ebb799fc6|428d5357-f016-42e7-9688-a77379cd1bd5",
-          ""
-        ],
-        [
-          "clearance|107778041|68885505|428d5357-f016-42e7-9688-a77379cd1bd5|0b7da5e5-c179-433f-ae94-7b997df51ea6",
-          ""
-        ],
-        [
-          "clearance|108097750|68820000|c182110d-9440-4b13-be0d-54f5ae356b8e|d538d807-3a75-4490-a9a4-4cb3c5a04b43",
-          ""
-        ],
-        [
-          "clearance|108213959|68769695|d538d807-3a75-4490-a9a4-4cb3c5a04b43|a18e7306-ff41-41c4-b58a-a99a2adfb6fd",
-          ""
-        ],
-        [
-          "clearance|108296000|69027600|aff86cc4-488d-49c3-96f8-1d487aa2ffd5|d538d807-3a75-4490-a9a4-4cb3c5a04b43",
-          ""
-        ],
-        [
-          "clearance|108396000|69027600|35d30fff-6af0-40c0-8274-6e338c68ee9e|aff86cc4-488d-49c3-96f8-1d487aa2ffd5",
-          ""
-        ],
-        [
-          "clearance|108413678|69034922|aff86cc4-488d-49c3-96f8-1d487aa2ffd5|fbbb72e3-e1ca-438c-8d75-e76987bffc9a",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -155,22 +122,22 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.2,
+        "min_clearance": 0.1,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
-        "min_microvia_diameter": 0.2,
-        "min_microvia_drill": 0.1,
+        "min_hole_clearance": 0.2,
+        "min_hole_to_hole": 0.2,
+        "min_microvia_diameter": 0.45,
+        "min_microvia_drill": 0.3,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.2,
-        "min_track_width": 0.2,
-        "min_via_annular_width": 0.2,
-        "min_via_diameter": 0.6,
+        "min_through_hole_diameter": 0.15,
+        "min_track_width": 0.16,
+        "min_via_annular_width": 0.075,
+        "min_via_diameter": 0.45,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -514,8 +481,8 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.6,
-        "via_drill": 0.2,
+        "via_diameter": 0.45,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -524,7 +491,7 @@
         "line_style": 0,
         "name": "Analog",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(0, 132, 0)",
         "track_width": 0.2,
         "wire_width": 6
@@ -535,7 +502,7 @@
         "line_style": 0,
         "name": "Digital",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(0, 0, 255)",
         "track_width": 0.2,
         "wire_width": 6
@@ -543,9 +510,9 @@
       {
         "name": "GND",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.6
+        "track_width": 0.45
       },
       {
         "bus_width": 12,
@@ -553,7 +520,7 @@
         "line_style": 0,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
+        "priority": 5,
         "schematic_color": "rgb(255, 0, 0)",
         "track_width": 0.8,
         "via_diameter": 1.2,
@@ -566,12 +533,19 @@
         "line_style": 0,
         "name": "PowerBat",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgb(132, 0, 0)",
         "track_width": 0.8,
         "via_diameter": 1.2,
         "via_drill": 0.6,
         "wire_width": 6
+      },
+      {
+        "name": "SENSOR",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(72, 0, 72)",
+        "track_width": 0.16
       }
     ],
     "meta": {
@@ -621,7 +595,7 @@
         "pattern": "A*"
       },
       {
-        "netclass": "Digital",
+        "netclass": "SENSOR",
         "pattern": "/S*"
       },
       {
@@ -647,6 +621,14 @@
       {
         "netclass": "GND",
         "pattern": "GNDPWR"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/OP*"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/T*"
       }
     ]
   },
@@ -655,7 +637,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
