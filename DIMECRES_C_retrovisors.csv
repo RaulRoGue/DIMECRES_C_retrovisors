@@ -1,61 +1,61 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"C1","1","120u","","","","Capacitor_THT:CP_Radial_D6.3mm_P2.50mm","~"
-"C2","1","470u","","","","Capacitor_THT:CP_Radial_D6.3mm_P2.50mm","~"
-"C3,C19","2","4u7","","","","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~"
-"C4,C8,C9,C10,C11,C14,C20","7","100n","","","","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~"
-"C5","1","100u","","","","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~"
-"C6","1","470U","","","","Capacitor_THT:CP_Radial_D6.3mm_P2.50mm","~"
-"C12,C13","2","15p","","","","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~"
-"C15,C16,C17","3","47n","","","","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~"
-"C18","1","1n","","","","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~"
-"C21,C22","2","33n","","","","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~"
-"C23","1","100n","","","","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~"
-"D1","1","SS3P5","","","","Diode_SMD:D_SMP_DO-220AA","~"
-"D2","1","R_LED","","","","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
-"D3,D5,D6","3","1N5817","","","","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88525/1n5817.pdf"
-"D4","1","G_LED","","","","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
-"D7,D8,D9,D10,D11,D12,D13,D14","8","1N5822","","","","Diode_THT:D_DO-201AD_P15.24mm_Horizontal","http://www.vishay.com/docs/88526/1n5820.pdf"
-"J2,J5","2","DE9_Pins","","","","Connector_Dsub:DSUB-9_Socket_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm","~"
-"J3","1","Conn_01x05_Pin","","","","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical","~"
-"J4","1","Motor3","","","","PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal","~"
-"J6","1","Intermitente","","","","PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal","~"
-"J7","1","Calentador","","","","PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal","~"
-"J8","1","Motor2","","","","PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal","~"
-"J9","1","Motor1","","","","PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal","~"
-"J10","1","Vbat","","","","PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal","~"
-"JP1","1","Jumper_3_Open","","","","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
-"L1","1","33u","","","","Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder","~"
-"Q1,Q2,Q3","3","DTC144E","","","","Package_TO_SOT_SMD:SOT-523",""
-"R1,R12,R14,R16,R17","5","1k","","","","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~"
-"R2","1","3k9","","","","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~"
-"R3","1","10k","","","","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~"
-"R4,R5","2","50m","","","","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~"
-"R6","1","60","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
-"R7","1","15k","","","","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~"
-"R8","1","0","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
-"R9","1","33k","","","","LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
-"R10,R11,R25,R26","4","1K","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
-"R13,R15,R18,R19","4","100k","","","","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~"
-"R20","1","100","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
-"R21","1","150","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
-"R22,R23","2","120","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
-"R24","1","180","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
-"SW1","1","SW_DPDT_G6S","","","","Relay_SMD:Relay_DPDT_Omron_G6S-2F","~"
-"SW2","1","UN/FOLD","","","","Button_Switch_SMD:SW_SPST_PTS647_Sx38","~"
-"SW3","1","HEAT","","","","Button_Switch_SMD:SW_SPST_PTS647_Sx38","~"
-"SW4","1","UP","","","","Button_Switch_SMD:SW_SPST_PTS647_Sx38","~"
-"SW5","1","DOWN","","","","Button_Switch_SMD:SW_SPST_PTS647_Sx38","~"
-"SW6","1","LEFT","","","","Button_Switch_SMD:SW_SPST_PTS647_Sx38","~"
-"SW7","1","RIGHT","","","","Button_Switch_SMD:SW_SPST_PTS647_Sx38","~"
-"SW8,SW9","2","FN01B","","","","Relay_THT:Relay_SPDT_HsinDa_Y14",""
-"SW10","1","SW_Push","","","","Button_Switch_SMD:SW_SPST_PTS647_Sx38","~"
-"U1","1","CH201","","","","PracticasKiCad:CH201",""
-"U2","1","ADM7160","","","","Package_TO_SOT_SMD:TSOT-23-5",""
-"U3","1","LM2596S-ADJ","","","","Package_TO_SOT_SMD:TO-263-5_TabPin3","http://www.ti.com/lit/ds/symlink/lm2596.pdf"
-"U4","1","L298N","","","","Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical","http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf"
-"U5","1","MCP2551-I-SN","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf"
-"U6","1","ADA4511-2","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://www.analog.com/media/en/technical-documentation/data-sheets/ada4522-1_4522-2_4522-4.pdf"
-"U7","1","PIC18F4480-IP","","","","Package_DIP:DIP-40_W15.24mm","http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf"
-"U8","1","LSF0002","","","","PracticasKiCad:LSF0002",""
-"U10","1","LM1117DT-5.0","","","","Package_TO_SOT_SMD:TO-263-3_TabPin2","http://www.ti.com/lit/ds/symlink/lm1117.pdf"
-"Y1","1","Crystal","","","","PracticasKiCad:Crystal_SMD_HC49-SD_Practica3","~"
+"Reference,""Qty"",""Value"",""DNP"",""Exclude from BOM"",""Exclude from Board"",""Footprint"",""Datasheet""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C1,""1"",""120u"","""","""","""",""Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C2,""1"",""470u"","""","""","""",""Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C3,C19,""2"",""4u7"","""","""","""",""Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C4,C8,C9,C10,C11,C14,C20,""7"",""100n"","""","""","""",""Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C5,""1"",""100u"","""","""","""",""Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C6,""1"",""470U"","""","""","""",""Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C12,C13,""2"",""15p"","""","""","""",""Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C15,C16,C17,""3"",""47n"","""","""","""",""Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C18,""1"",""1n"","""","""","""",""Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C21,C22,""2"",""33n"","""","""","""",""Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"C23,""1"",""100n"","""","""","""",""Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"D1,""1"",""SS3P5"","""","""","""",""Diode_SMD:D_SMP_DO-220AA"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"D2,""1"",""R_LED"","""","""","""",""LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;TAULA DE PREUS DE COMPONENTS PER NÚMERO DE UNITATS;;;;;;;;;;
+"D3,D5,D6,""3"",""1N5817"","""","""","""",""Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"",""http://www.vishay.com/docs/88525/1n5817.pdf""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"D4,""1"",""G_LED"","""","""","""",""LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;unitats;x10;x50;x1.000;x20.000;;;;;;
+"D7,D8,D9,D10,D11,D12,D13,D14,""8"",""1N5822"","""","""","""",""Diode_THT:D_DO-201AD_P15.24mm_Horizontal"",""http://www.vishay.com/docs/88526/1n5820.pdf""";;;;;;;;;;;;;;;;;;COMPONENTS (€/unitat);;;;;;;;;;
+"J2,J5,""2"",""DE9_Pins"","""","""","""",""Connector_Dsub:DSUB-9_Socket_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm"",""~""";;;;;;;;;;;;;;;;;;Microcontrolador: PIC18F4480-I/P;7,790;7,790;7,790;7,790;PIC18F4480;;;;;
+"J3,""1"",""Conn_01x05_Pin"","""","""","""",""Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"",""~""";;;;;;;;;;;;;;;;;;Driver: L298N;8,660;7,970;6,640;6,640;L298N;;;;;
+"J4,""1"",""Motor3"","""","""","""",""PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal"",""~""";;;;;;;;;;;;;;;;;;CAN Transceiver: MCP2551;1,480;1,480;1,260;1,260;MCP2551;;;;;
+"J6,""1"",""Intermitente"","""","""","""",""PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal"",""~""";;;;;;;;;;;;;;;;;;Rele SPDT: FN01B ;2,480;2,210;1,480;1,480;FN01B;* Preus obtinguts de RS;;;;
+"J7,""1"",""Calentador"","""","""","""",""PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal"",""~""";;;;;;;;;;;;;;;;;;Rele DPDT: G6S-2F-DC5;4,410;4,010;3,390;3,390;G6S-2F-DC5;* Preus obtinguts de RS;;;;
+"J8,""1"",""Motor2"","""","""","""",""PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal"",""~""";;;;;;;;;;;;;;;;;;OpAmp: ADA4511-2;1,780;1,790;1,310;1,170;ADA4511-2;;;;;
+"J9,""1"",""Motor1"","""","""","""",""PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal"",""~""";;;;;;;;;;;;;;;;;;Conv. DC/DC Buck: LM2596T-ADJ/NOPB;4,190;3,880;3,120;3,060;LM2596ADJ;;;;;
+"J10,""1"",""Vbat"","""","""","""",""PracticasKiCad:TerminalBlock_TE_282834-2_1x02_5,08mm_Horizontal"",""~""";;;;;;;;;;;;;;;;;;"Regulador 5V	: LT1117CST-5";5,160;4,440;3,710;3,710;LT1117;;;;;
+"JP1,""1"",""Jumper_3_Open"","""","""","""",""Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"",""~""";;;;;;;;;;;;;;;;;;Diode Schottky: SS3P5-M3;0,206;0,206;0,105;0,070;SS3P5;;;;;
+"L1,""1"",""33u"","""","""","""",""Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;"Transistors BJT: DTC144EE-TP	";0,122;0,122;0,045;0,025;DTC144EE;;;;;
+"Q1,Q2,Q3,""3"",""DTC144E"","""","""","""",""Package_TO_SOT_SMD:SOT-523"",""""";;;;;;;;;;;;;;;;;;Sensor: CH201;5,420;5,420;4,980;4,980;CH201;;;;;
+"R1,R12,R14,R16,R17,""5"",""1k"","""","""","""",""Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Regulador 1.8V: ADM7160AUJZ-1.8-R;1,580;1,390;0,826;0,754;ADM7160;;;;;
+"R2,""1"",""3k9"","""","""","""",""Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Diodes Circulació: 1N5817;0,157;0,157;0,083;0,047;1N5817;;;;;
+"R3,""1"",""10k"","""","""","""",""Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Diodes Drivers: 1N5822;0,204;0,204;0,121;0,090;1N5822;;;;;
+"R4,R5,""2"",""50m"","""","""","""",""Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Led Angle Mort: Ls R976-NR-1;0,118;0,118;0,043;0,030;LED ROIG;;;;;
+"R6,""1"",""60"","""","""","""",""Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Led Alimentació: LTST-C170GKT;0,105;0,105;0,052;0,038;LED VERD;;;;;
+"R7,""1"",""15k"","""","""","""",""Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Connectors ;0,939;0,939;0,939;0,939;CONNECTOR;;;;;
+"R8,""1"",""0"","""","""","""",""Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Botons;0,179;0,179;0,153;0,105;BOTONS;;;;;
+"R9,""1"",""33k"","""","""","""",""LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Convertidor Voltatge : LSF0002;0,248;0,221;0,168;0,137;LSF0002;;;;;
+"R10,R11,R25,R26,""4"",""1K"","""","""","""",""Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;Cristall;0,279;0,253;0,207;0,171;CRISTALL;;;;;
+"R13,R15,R18,R19,""4"",""100k"","""","""","""",""Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;DE9;18,960;17,56;15,56;15,56;DE9;;;;;
+"R20,""1"",""100"","""","""","""",""Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;TOTAL COMPONENTS:   (€/placa);93,483;87,79;75,585;74,48;;;;;;
+"R21,""1"",""150"","""","""","""",""Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"R22,R23,""2"",""120"","""","""","""",""Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"R24,""1"",""180"","""","""","""",""Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"SW1,""1"",""SW_DPDT_G6S"","""","""","""",""Relay_SMD:Relay_DPDT_Omron_G6S-2F"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"SW2,""1"",""UN/FOLD"","""","""","""",""Button_Switch_SMD:SW_SPST_PTS647_Sx38"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"SW3,""1"",""HEAT"","""","""","""",""Button_Switch_SMD:SW_SPST_PTS647_Sx38"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"SW4,""1"",""UP"","""","""","""",""Button_Switch_SMD:SW_SPST_PTS647_Sx38"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"SW5,""1"",""DOWN"","""","""","""",""Button_Switch_SMD:SW_SPST_PTS647_Sx38"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"SW6,""1"",""LEFT"","""","""","""",""Button_Switch_SMD:SW_SPST_PTS647_Sx38"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"SW7,""1"",""RIGHT"","""","""","""",""Button_Switch_SMD:SW_SPST_PTS647_Sx38"",""~""";;;;;;;;;;;;;;;;;;TAULADE PREUS PER CADA PCB DEPENENT DEL TIPUS DE MUNTATGE;;;;;;;;;;
+"SW8,SW9,""2"",""FN01B"","""","""","""",""Relay_THT:Relay_SPDT_HsinDa_Y14"",""""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"SW10,""1"",""SW_Push"","""","""","""",""Button_Switch_SMD:SW_SPST_PTS647_Sx38"",""~""";;;;;;;;;;;;;;;;;;;muntatge manual amb terminis curts d'entrega;;;;muntatge industrial amb temps de lliurament llarg;;;;;
+"U1,""1"",""CH201"","""","""","""",""PracticasKiCad:CH201"",""""";;;;;;;;;;;;;;;;;;unitats;x10;;x50;;x1.000;;x20.000;;;
+"U2,""1"",""ADM7160"","""","""","""",""Package_TO_SOT_SMD:TSOT-23-5"",""""";;;;;;;;;;;;;;;;;;Components;93,483;;87,79;;75,585;;74,48;;;
+"U3,""1"",""LM2596S-ADJ"","""","""","""",""Package_TO_SOT_SMD:TO-263-5_TabPin3"",""http://www.ti.com/lit/ds/symlink/lm2596.pdf""";;;;;;;;;;;;;;;;;;PCB;;;;;;;;;;
+"U4,""1"",""L298N"","""","""","""",""Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical"",""http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf""";;;;;;;;;;;;;;;;;;Stencils;;;;;;;;;;
+"U5,""1"",""MCP2551-I-SN"","""","""","""",""Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"",""http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf""";;;;;;;;;;;;;;;;;;TOTAL PCB:  (€/placa);93,483;;87,79;;75,585;;74,48;;;
+"U6,""1"",""ADA4511-2"","""","""","""",""Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"",""https://www.analog.com/media/en/technical-documentation/data-sheets/ada4522-1_4522-2_4522-4.pdf""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"U7,""1"",""PIC18F4480-IP"","""","""","""",""Package_DIP:DIP-40_W15.24mm"",""http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"U8,""1"",""LSF0002"","""","""","""",""PracticasKiCad:LSF0002"",""""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"U10,""1"",""LM1117DT-5.0"","""","""","""",""Package_TO_SOT_SMD:TO-263-3_TabPin2"",""http://www.ti.com/lit/ds/symlink/lm1117.pdf""";;;;;;;;;;;;;;;;;;PREU FINAL;;;;;;;;;;
+"Y1,""1"",""Crystal"","""","""","""",""PracticasKiCad:Crystal_SMD_HC49-SD_Practica3"",""~""";;;;;;;;;;;;;;;;;;;;;;;;;;;;
